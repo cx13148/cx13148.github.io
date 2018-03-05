@@ -1,7 +1,17 @@
 [0d9751f7]: https://www.rabbitmq.com/download.html "install"
 [b7523268]: https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/php "tutorial"
 
-# rabbitmq整理
+---
+layout:     post
+title:      "RabbitMQ官方教程整理"
+subtitle:   ""
+date:       2018-01-25
+author:     "yohaha"
+header-img: ""
+---
+
+> 源自RabbitMQ官方的PHP教程。
+
 
 ## 安装配置
 #### 安装参考官方指南
