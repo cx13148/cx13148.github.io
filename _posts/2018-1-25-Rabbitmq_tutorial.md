@@ -1,6 +1,3 @@
-[0d9751f7]: https://www.rabbitmq.com/download.html "install"
-[b7523268]: https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/php "tutorial"
-
 ---
 layout:     post
 title:      "RabbitMQ官方教程整理"
@@ -11,6 +8,10 @@ header-img: ""
 ---
 
 > 源自RabbitMQ官方的PHP教程。
+
+
+[0d9751f7]: https://www.rabbitmq.com/download.html "install"
+[b7523268]: https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/php "tutorial"
 
 
 ## 安装配置
